@@ -1,6 +1,6 @@
 <div>
 <!--   <h1><samp> 🔥 Kairo Linux</samp></h1> -->
-  <img src="./assets/banner.png" height="256"  />  
+  <img src="https://github.com/kairolinux/.github/raw/main/profile/assets/banner.png" height="256"  />  
 </div>
   
 <br>
