@@ -1,7 +1,7 @@
 <div>
   <!-- 🎹📐☂🔥⚡ -->
 <!--   <h1><samp> 🔥 Kairo Linux</samp></h1> -->
-  <img src="./profile/assets/banner.png" height="512"  />  
+  <img src="./assets/banner.png" height="512"  />  
 </div>
   
 <br>
